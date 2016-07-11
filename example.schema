@@ -1,0 +1,7 @@
+type: object
+name: example
+properties:
+    - example_value:
+        type: string
+required: ["example_value"]
+
