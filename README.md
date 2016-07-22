@@ -1,3 +1,6 @@
+Test Layer
+==========
+
 An example of the structure of a DISCO layer
 
 This can include more than one schema. For each 'when' rule the name should
